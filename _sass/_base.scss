@@ -29,7 +29,7 @@ $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
-$purple: #B509AC;
+$purple: #9e72c0;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -37,7 +37,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $purple;
 
 
 /************************************************************/
@@ -224,5 +224,15 @@ pre {
     }
 }
 
+/* Extra *************************/
+.lillen-title {
+font-size: 36px;
+color:#9e72c0 !important;
+letter-spacing: -1px;
+line-height: 1;
+@include media-query($on-laptop) {
+font-size: 40px;
 
 
+}
+}

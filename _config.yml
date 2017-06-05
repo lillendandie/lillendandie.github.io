@@ -1,19 +1,20 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Lillendandie Art
+email: dandie.illustration@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Synthia Lillendandie Art Portfolio
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: lillendandie
+github_username:  lillendandie
 
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 # Pagination
+gems: [jekyll-paginate]
 paginate: 15
 paginate_path: "/blog/page:num/"
 
@@ -22,8 +23,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
+ 
 
 
