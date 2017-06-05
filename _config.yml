@@ -1,3 +1,4 @@
-name: Hank Quinlan, Horrible Cop
+name: Lillendandie Art
 markdown: kramdown
+exclude: ['README.md']
 permalink: /blog/:year/:month/:day/:title
