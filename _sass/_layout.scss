@@ -75,15 +75,17 @@ display: line;
  */
 .site-footer {
 border-top: 1px solid $grey-color-dark;
-font-size: 10px;
-background-color: $grey-color-dark;
+font-size: 11px;
+background-color: #FFF;
 padding: 2px;
-color: #aaa;
+color: #000;
 position:fixed;
 left:0px;
 bottom:0px;
 height:25px;
 width:100%;
+/* Translucent */
+opacity: 0.8;
 }
 /**
  * Pagination   **********************************************************
@@ -207,11 +209,11 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 500px;
+width: 330px;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+left: -40%;
+top: -30%;
 }
 .thumbnail a{
 float: left;
