@@ -6,6 +6,7 @@
 
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
+
         <a class="page-link" href="{{ site.baseurl }}/">home</a>
 
         {% for page in site.pages %}
@@ -14,17 +15,8 @@
           {% endif %}
         {% endfor %}
   
-<div class="dropdown">
-  links
-  <div class="dropdown-content">
-    <ul>
-      <li><a href="http://www.instagram.com/lillendandieart/">Instagram</a></li>
-      <li><a href="http://www.youtube.com/channel/UC5Y-sqa7-zQ8XjXOCRnJVFg">YouTube</a></li>
-      <li><a href="http://www.twitch.tv/lillendandie">Twitch</a></li>
-      <li><a href="http://twitter.com/lillendandie">Twitter</a></li>
-      <li><a href="http://www.facebook.com/LillendandieArt/">Facebook</a></li>
-  </div>
-</div>
+{% include dropdown.html %}
+
 
 
 

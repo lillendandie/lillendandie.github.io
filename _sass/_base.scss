@@ -19,9 +19,9 @@ $nav-height:                    56px;
 
 /* portfolio tinkering */
 $img_spacing: 5px; 
-$img_height: 275px;
+$img_height: 300px;
 $caption_font_size: 12px;
-$caption_color: #aaa;
+$caption_color: $grey-color-dark;
 
 /* COLORS  */
 $red:  #FF3636;
@@ -226,7 +226,7 @@ pre {
 
 /* Extra *************************/
 .lillen-title {
-font-size: 36px;
+font-size: 32px;
 color:#9e72c0 !important;
 letter-spacing: -1px;
 line-height: 1;
