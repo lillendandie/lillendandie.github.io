@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dandie
+title: Lillendandie (WIP)
 description: 
 img: /img/1.jpg
 ---
@@ -9,7 +9,10 @@ img: /img/1.jpg
 	<img src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 </div>
 
-**Work In Progress**
 <div class="col three caption">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(This is a work in progress.)
+<br><b>Lillendandie </b>(2017)
+<br>Digital Painting 
+<br>8 x 10 in. 
+
 </div>
