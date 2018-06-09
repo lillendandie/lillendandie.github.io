@@ -1,7 +1,7 @@
 ---
 layout: post
-title: news
-permalink: /news/
+title: blog
+permalink: /blog/
 ---
 
 <ul class="post-list">

@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Synthia Lillendandie is a freelance illustrator and fine artist based in the US. She specializes in painting portraits of feminine characters and landscapes. Her inspirations include mythology, Japanese comics, nature and the fantasy genre.
+Synthia Lillendandie is a US based artist & fantasy illustrator specializing in portraits, characters, environments and concept design. Inspirations include mythology, nature, manga and pop surrealism.
 <hr/>
 <br/>
 <span class="contacticon center">
