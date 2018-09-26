@@ -93,16 +93,21 @@ links:
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
       icon: fab fa-vine
-  - facebook:
-      name: Facebook
-      show: true
-      href: https://facebook.com/LillendandieArt
-      icon: fab fa-facebook
   - twitch:
       name: Twitch
       show: true
       href: https://www.twitch.tv/Lillendandie
       icon: fab fa-twitch
+  - facebook:
+      name: Facebook
+      show: true
+      href: https://facebook.com/LillendandieArt
+      icon: fab fa-facebook
+  - youtube:
+      name: YouTube
+      show: true
+      href: https://www.youtube.com/channel/UC5Y-sqa7-zQ8XjXOCRnJVFg
+      icon: fab fa-youtube
   - vkontakte:
       name: ВКонтакте
       show: false
