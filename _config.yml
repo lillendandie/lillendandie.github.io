@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Synthia Lillendandie
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Artist & Illustrator
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,8 +23,8 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Synthia Lillendandie is an artist & fantasy illustrator specializing in portraits, characters, environments and concept design..
+    keywords: artist, illustrator, fantasy art, dark art, digital painting
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
@@ -42,7 +42,7 @@ baseurl: '/'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
+    account: ''
     cookieconsent: true
     anonymizeip: true
 
@@ -50,7 +50,7 @@ ga:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars3.githubusercontent.com/u/32414568"
+avatar: "https://lillendandie.github.io/images/avatar.png"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -76,11 +76,11 @@ links:
   - twitter:
       name: Twitter
       show: true
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
+      href: https://twitter.com/Lillendandie
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -90,18 +90,18 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
+      show: true
+      href: https://facebook.com/LillendandieArt
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      show: true
+      href: https://instagram.com/lillendandieart
       icon: fab fa-instagram
   - flickr:
       name: Flickr
@@ -125,7 +125,7 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: true
+      show: false
       href: https://github.com/tsjensen
       icon: fab fa-github
   - codepen:
@@ -150,22 +150,27 @@ links:
       icon: fab fa-medium
   - tumblr:
       name: Tumblr
-      show: false
-      href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
+      show: true
+      href: https://dandie-draws.tumblr.com/
       icon: fab fa-tumblr
+  - deviantart:
+      name: DeviantArt
+      show: true
+      href: https://www.deviantart.com/lillendandie
+      icon: fab fa-deviantart
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:dandie.illustration@gmail.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
