@@ -58,6 +58,11 @@ avatar: "https://raw.githubusercontent.com/lillendandie/lillendandie.github.io/m
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
+  - instagram:
+      name: Instagram
+      show: true
+      href: https://instagram.com/lillendandieart
+      icon: fab fa-instagram
   - xing:
       name: Xing
       show: false
@@ -93,16 +98,16 @@ links:
       show: true
       href: https://facebook.com/LillendandieArt
       icon: fab fa-facebook
+  - twitch:
+      name: Twitch
+      show: true
+      href: https://www.twitch.tv/Lillendandie
+      icon: fab fa-twitch
   - vkontakte:
       name: ВКонтакте
       show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
-  - instagram:
-      name: Instagram
-      show: true
-      href: https://instagram.com/lillendandieart
-      icon: fab fa-instagram
   - flickr:
       name: Flickr
       show: false
@@ -151,7 +156,7 @@ links:
   - tumblr:
       name: Tumblr
       show: true
-      href: https://dandie-draws.tumblr.com/
+      href: https://lillendandie.tumblr.com/
       icon: fab fa-tumblr
   - deviantart:
       name: DeviantArt
@@ -160,8 +165,8 @@ links:
       icon: fab fa-deviantart
   - blog:
       name: Blog
-      show: false
-      href: http://host.domain/your_blog
+      show: true
+      href: https://dandie-draws.tumblr.com/
       icon: fas fa-book-open
   - email:
       name: Email
