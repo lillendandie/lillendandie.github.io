@@ -161,7 +161,7 @@ links:
   - tumblr:
       name: Tumblr
       show: true
-      href: https://lillendandie.tumblr.com/
+      href: https://dandie-draws.tumblr.com
       icon: fab fa-tumblr
   - deviantart:
       name: DeviantArt
@@ -170,8 +170,8 @@ links:
       icon: fab fa-deviantart
   - blog:
       name: Blog
-      show: true
-      href: https://dandie-draws.tumblr.com/
+      show: false
+      href: 
       icon: fas fa-book-open
   - email:
       name: Email
